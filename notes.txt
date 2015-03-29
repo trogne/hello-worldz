@@ -1,0 +1,19 @@
+( chere -i -t mintty -f )
+
+git clonse https://github.com/trogne/hello-world.git
+(dir hello-world)
+
+git clonse https://github.com/trogne/hello-world.git this_dir
+
+git config --global user.name "Patrick Fiset"
+git config user.name
+
+git config --global user.email "patrick.fiset@gmail.com"
+git config user.email
+
+git status
+
+git add notes.txt
+
+touch index.html
+
