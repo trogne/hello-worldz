@@ -23,5 +23,10 @@ git reset HEAD notes.txt
 
 git commit -m "Created index file"
 
+git add *
+git commit -m "added hello world to index"
+
+
+
 git push
 
