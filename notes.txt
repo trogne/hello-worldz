@@ -52,6 +52,9 @@ git branch master
 
 git merge hello-england
 
+git branch -d hello-england
+
+
 
 
 
