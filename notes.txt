@@ -35,5 +35,14 @@ git push
 
 git push origin master
 
+git pull
+
+git branch hello-england
+git checkout hello-england
+
+git checkout -b new-branch (pour créer + checkout en même temps)
+
+git push origin hello-england
+
 
 
